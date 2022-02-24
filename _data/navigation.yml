@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://maveric-project.org/about/
   - title: "Partners"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: https://maveric-project.github.io/partners/
   - title: "Documents"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://maveric-project.org/docs/
   - title: "Posts"
     url: /year-archive/
   # - title: "Sample Collections"

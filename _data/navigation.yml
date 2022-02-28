@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "About"
-    url: https://maveric-project.org/about/
-  - title: "Partners"
-    url: https://maveric-project.github.io/partners/
+    url: /about/
+  - title: "Consortium"
+    url: /consortium/
   - title: "Documents"
-    url: https://maveric-project.org/docs/
-  - title: "Posts"
-    url: /year-archive/
+    url: /docs/
+  # - title: "Posts"
+  #  url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

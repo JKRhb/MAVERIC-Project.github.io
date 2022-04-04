@@ -285,9 +285,9 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: # true
-      share: true
-      related: true
+      comments: false
+      share: false
+      # related: true
   # _pages
   - scope:
       path: "_pages"

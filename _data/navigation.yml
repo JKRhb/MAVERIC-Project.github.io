@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Consortium"
     url: /consortium/
+  - title: "Publications"
+    url: /pubs/
   - title: "News"
     url: /news/
   # - title: "Posts"

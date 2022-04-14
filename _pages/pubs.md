@@ -14,3 +14,5 @@ toc_label: "Table of Contents"
 ## MAVERIC in the media
 
 * [5G-Projekt für Industrie entwickelt](/assets/pdf/2022-04-14_Emder_Zeitung_-_14-04-2022_print.pdf); [Emder Zeitung](https://www.emderzeitung.de/); 2022-04-14
+* [Hochschule Emden entwickelt 5G-Projekt für Industrie](https://www.nwzonline.de/plus-emden/emden-digitalisierung-hochschule-emden-entwickelt-5g-projekt-fuer-industrie-projekt-maveric_a_51,6,4229545147.html); [NWZ Online](https://www.nwzonline.de/); 2022-04-14
+* [HS Emden und Lürssen forschen zu mobilem 5G-Netz im Schiffbau](https://hansa-online.de/2022/04/featured/193913/hs-emden-und-luerssen-forschen-zu-mobilem-5g-netz-im-schiffbau/); [HANSA](https://hansa-online.de/); 2022-04-14

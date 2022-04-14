@@ -76,15 +76,13 @@ perspective successor 6G, the topic of 5G campus networks is a funding
 priority. Thereby, BMWK is driving the increased implementation of
 public 5G-based networks as well as the expansion and utilization of
 private 5G campus networks for the economy. For further information
-visit https://www.bmwi.de/Redaktion/DE/Press Releases/2022/02/20220208
--state
-secretary-philipp-new-bmwk-program-demands-innovative-solutions-for-5g-campus-networks.html.
+visit the BMWI [website](https://www.bmwi.de/Redaktion/EN/Pressemitteilungen/2022/02/20220208-state-secretary-philipp-ministrys-new-programme-promotes-innovative-solutions-for-5g-campus-networks.html).
 
  
 
-# Further information about the funding program: https://www.digitale-technologies.de/DT/Navigation/DE/ProgrammeProjekte/AktuelleTechnologieprogramme/5G_Campusnetze/Programm/programm.html 
-#	Overview of the 5G funding projects: https://www.digitale-technologies.de/DT/Navigation/DE/ProgrammeProjekte/AktuelleTechnologieprogramme/5G_Campusnetze/Projects/projects.html 
-#	Further information about the project MAVERIC: https://www.digitale-technologies.de/DT/Navigation/DE/ProgrammeProjekte/AktuelleTechnologieprogramme/5G_Campusnetze/Projekte/MAVERIC/maveric.html or at https://maveric-project.org 
+* Further information about the [funding program](https://www.digitale-technologies.de/DT/Navigation/DE/ProgrammeProjekte/AktuelleTechnologieprogramme/5G_Campusnetze/Programm/programm.html)
+* Overview of the 5G [funding projects](https://www.digitale-technologies.de/DT/Navigation/DE/ProgrammeProjekte/AktuelleTechnologieprogramme/5G_Campusnetze/Projects/projects.html)
+* Further information about the project [MAVERIC](https://www.digitale-technologies.de/DT/Navigation/DE/ProgrammeProjekte/AktuelleTechnologieprogramme/5G_Campusnetze/Projekte/MAVERIC/maveric.html) or at [https://maveric-project.org](https://maveric-project.org)
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "BMWK project "MAVERIC" to simplify the utilization of 5G in corporate networks"
+title: "BMWK project \"MAVERIC\" to simplify the utilization of 5G in corporate networks"
 ---
 
 ***Xantaro Deutschland, the NVL Group with shipyard locations in both the
@@ -82,9 +82,9 @@ secretary-philipp-new-bmwk-program-demands-innovative-solutions-for-5g-campus-ne
 
  
 
-	Further information about the funding program: https://www.digitale-technologies.de/DT/Navigation/DE/ProgrammeProjekte/AktuelleTechnologieprogramme/5G_Campusnetze/Programm/programm.html 
-	Overview of the 5G funding projects: https://www.digitale-technologies.de/DT/Navigation/DE/ProgrammeProjekte/AktuelleTechnologieprogramme/5G_Campusnetze/Projects/projects.html 
-	Further information about the project MAVERIC: https://www.digitale-technologies.de/DT/Navigation/DE/ProgrammeProjekte/AktuelleTechnologieprogramme/5G_Campusnetze/Projekte/MAVERIC/maveric.html or at https://maveric-project.org 
+# Further information about the funding program: https://www.digitale-technologies.de/DT/Navigation/DE/ProgrammeProjekte/AktuelleTechnologieprogramme/5G_Campusnetze/Programm/programm.html 
+#	Overview of the 5G funding projects: https://www.digitale-technologies.de/DT/Navigation/DE/ProgrammeProjekte/AktuelleTechnologieprogramme/5G_Campusnetze/Projects/projects.html 
+#	Further information about the project MAVERIC: https://www.digitale-technologies.de/DT/Navigation/DE/ProgrammeProjekte/AktuelleTechnologieprogramme/5G_Campusnetze/Projekte/MAVERIC/maveric.html or at https://maveric-project.org 
 
 
 

@@ -7,6 +7,28 @@ The MAVERIC project consists of four partners that together work towards the pro
 
 ## NVL 
 
+![NVL Logo](/assets/img/nvl_single_rgb_black_72dpi.png)
+
+The NVL Group is an independent, privately owned group of renowned
+Northern German shipyards and related companies with more than 1,500
+highly qualified employees. Our experienced teams exceed customer
+expectations by listening carefully to their ideas, understanding
+their specific requirements, and delivering high-quality naval and
+coast guard vessels as well as comprehensive services throughout the
+entire life cycle of their fleets. We have completed more than 1,000
+naval vessels and coast guard vessels since our beginnings in the late
+1870s, and have built and repaired ships for both the German Navy and
+fleets in over 50 countries. Today, construction at our network of
+shipyards is supplemented by licensed manufacture at customer
+facilities around the world under technology transfer arrangements. As
+an independent enterprise, we remain flexible to market changes and
+operate a dynamic, safe and future-oriented business for our valued
+customers, employees, partners and the community. We work as one team
+and have deep roots in shipbuilding. It is part of our DNA – the DNA
+of shipbuilding.
+
+Further information available at [www.nvl.de](https://www.nvl.de)
+
 ## Xantaro
 
 ![Xantaro Logo](/assets/img/xantaro.png)

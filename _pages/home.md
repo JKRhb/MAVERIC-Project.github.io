@@ -3,4 +3,4 @@ permalink: /
 title: "MAVERIC Project"
 ---
 
-![image](/assets/img/werft.jpg)
+![image](/assets/img/werftarbeiter_vor_schiff.jpg)

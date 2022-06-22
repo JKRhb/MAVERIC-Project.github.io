@@ -23,7 +23,15 @@ toc_label: "Table of Contents"
 
 ### Block 3
 
+* [PDF](/assets/share/campusos-workshop-2022-06-21/CampusOS_Satelliten-Workshop_2022 - Block 3_MAVERIC.pdf)
+* [PPTX](/assets/share/campusos-workshop-2022-06-21/CampusOS_Satelliten-Workshop_2022 - Block 3_MAVERIC.pptx)
+
+
 ### Block 4
+
+* [PDF](/assets/share/campusos-workshop-2022-06-21/CampusOS_Satelliten-Workshop_2022 - Block 4_MAVERIC.pdf)
+* [PPTX](/assets/share/campusos-workshop-2022-06-21/CampusOS_Satelliten-Workshop_2022 - Block 4_MAVERIC.pptx)
+
 
 ### Block 5 und 6
 

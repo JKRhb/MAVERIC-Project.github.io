@@ -15,6 +15,7 @@ toc_label: "Table of Contents"
 ## MAVERIC in the media
 
 * [Hochschule Augsburg startet 1,8 Millionen Euro schweres 5G-Forschungsprojekt](https://www.b4bschwaben.de/b4b-nachrichten/augsburg_artikel,-hochschule-augsburg-startet-18-millionen-euro-schweres-5gforschungsprojekt-_arid,267327.html); [B4B Schwaben](https://www.b4bschwaben.de/); 2022-06-22
+* [5G-Netz zum Mitnehmen](https://www.sps-magazin.de/wireless-mobilfunk/5g-netz-zum-mitnehmen/); [SPS Magazin](https://www.sps-magazin.de); 2022-05-06
 * [5G-Projekt für Industrie entwickelt](/assets/pdf/2022-04-14_Emder_Zeitung_-_14-04-2022_print.pdf); [Emder Zeitung](https://www.emderzeitung.de/); 2022-04-14
 * [Hochschule Emden entwickelt 5G-Projekt für Industrie](https://www.nwzonline.de/plus-emden/emden-digitalisierung-hochschule-emden-entwickelt-5g-projekt-fuer-industrie-projekt-maveric_a_51,6,4229545147.html); [NWZ Online](https://www.nwzonline.de/); 2022-04-14
 * [HS Emden und Lürssen forschen zu mobilem 5G-Netz im Schiffbau](https://hansa-online.de/2022/04/featured/193913/hs-emden-und-luerssen-forschen-zu-mobilem-5g-netz-im-schiffbau/); [HANSA](https://hansa-online.de/); 2022-04-14

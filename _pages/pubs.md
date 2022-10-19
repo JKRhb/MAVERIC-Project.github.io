@@ -10,6 +10,10 @@ toc_label: "Table of Contents"
 
 * V. Heinrich, R. Winter, "Reverse Traceroute", (internet draft, [00 version](https://datatracker.ietf.org/doc/html/draft-heiwin-intarea-reverse-traceroute-00)), 2022-09-05
 
+## Presentations
+
+* R. Winter, V. Heinrich, "There AND back - designing reverse traceroute", [DENOG14](https://www.denog.de/de/meetings/denog14/index.html), 2022-11-15
+
 ## Press releases
 
 * University of Applied Sciences Augsburg [press release](/assets/pdf/HSA_PM_BMWK-Projekt_MAVERIC.pdf); 2022-06-13

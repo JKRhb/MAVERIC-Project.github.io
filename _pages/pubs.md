@@ -13,6 +13,7 @@ toc_label: "Table of Contents"
 ## Presentations
 
 * R. Winter, V. Heinrich, "There AND back - designing reverse traceroute", [DENOG14](https://www.denog.de/de/meetings/denog14/index.html), 2022-11-15
+* R. Winter, V. Heinrich, "Supercharging Traceroute", [IETF 115](https://datatracker.ietf.org/meeting/115/materials/slides-115-hotrfc-sessa-5-supercharging-traceroute), 22-11-06
 
 ## Press releases
 

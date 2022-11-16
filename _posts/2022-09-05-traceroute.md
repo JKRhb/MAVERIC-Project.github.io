@@ -11,3 +11,5 @@ implemented a reverse traceroute mechanism, that helps us with identifying poten
 in the network beyond what is available today. In order to have a broader availability
 of this reverse traceroute facility, we have contributed our design to the IETF. You
 can read up on our protocol design [here](https://datatracker.ietf.org/doc/html/draft-heiwin-intarea-reverse-traceroute).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j0TLYpvK4NQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -15,6 +15,10 @@ toc_label: "Table of Contents"
 * R. Winter, V. Heinrich, "There AND back - designing reverse traceroute", [DENOG14](https://www.denog.de/de/meetings/denog14/index.html), 2022-11-15, [video](https://www.youtube.com/watch?v=Y7NtqLEtgjU)
 * R. Winter, V. Heinrich, "Supercharging Traceroute", [IETF 115](https://datatracker.ietf.org/meeting/115/materials/slides-115-hotrfc-sessa-5-supercharging-traceroute), 22-11-06, [video](https://www.youtube.com/watch?v=j0TLYpvK4NQ&t=1460s)
 
+## Code
+
+* A reverse traceroute client and server implementation (V. Heinrich, University of Applied Sciences Augsburg), [Github](https://github.com/hsanet/reverse-traceroute)
+
 ## Press releases
 
 * University of Applied Sciences Augsburg [press release](/assets/pdf/HSA_PM_BMWK-Projekt_MAVERIC.pdf); 2022-06-13

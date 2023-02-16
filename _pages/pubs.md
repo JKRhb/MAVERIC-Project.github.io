@@ -9,8 +9,8 @@ toc_label: "Table of Contents"
 ## Standards contributions
 
 * V. Heinrich, R. Winter, "Reverse Traceroute", 
-(internet draft, [00 version](https://datatracker.ietf.org/doc/html/draft-heiwin-intarea-reverse-traceroute-00)) 2022-09-05,
-[01 version](https://datatracker.ietf.org/doc/html/draft-heiwin-intarea-reverse-traceroute-01)) 2023-02-16  
+(internet draft, [00 version](https://datatracker.ietf.org/doc/html/draft-heiwin-intarea-reverse-traceroute-00) 2022-09-05,
+[01 version](https://datatracker.ietf.org/doc/html/draft-heiwin-intarea-reverse-traceroute-01) 2023-02-16)
 
 ## Presentations
 

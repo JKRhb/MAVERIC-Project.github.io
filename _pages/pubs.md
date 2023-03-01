@@ -29,6 +29,7 @@ toc_label: "Table of Contents"
 
 ## MAVERIC in the media
 
+* [Troubleshooting the other half](https://blog.apnic.net/2023/03/01/troubleshooting-the-other-half/); [APNIC blog](https://blog.apnic.net/); 2023-03-01
 * [Hochschule Augsburg startet 1,8 Millionen Euro schweres 5G-Forschungsprojekt](https://www.b4bschwaben.de/b4b-nachrichten/augsburg_artikel,-hochschule-augsburg-startet-18-millionen-euro-schweres-5gforschungsprojekt-_arid,267327.html); [B4B Schwaben](https://www.b4bschwaben.de/); 2022-06-22
 * [5G-Netz zum Mitnehmen](https://www.sps-magazin.de/wireless-mobilfunk/5g-netz-zum-mitnehmen/); [SPS Magazin](https://www.sps-magazin.de); 2022-05-06
 * [5G-Projekt für Industrie entwickelt](/assets/pdf/2022-04-14_Emder_Zeitung_-_14-04-2022_print.pdf); [Emder Zeitung](https://www.emderzeitung.de/); 2022-04-14

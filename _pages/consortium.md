@@ -31,7 +31,7 @@ Further information available at [www.nvl.de](https://www.nvl.de)
 
 ## Xantaro
 
-![Xantaro Logo](/assets/img/xantaro.png)
+![Xantaro Logo](/assets/img/xantaro.jpg)
 
 Xantaro specializes in networking technologies, software solutions and services for carriers, ISPs and Telcos, Hosting and Cloud Providers, as well as for operators of Data Centres and Campus networks. Our experts assist customers with consulting, solution design, engineering and PoC, delivery, implementation and commissioning as well as with operational support and maintenance services through all phases in the development, implementation and operation of automated, scalable and secure infrastructures.
 

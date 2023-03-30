@@ -37,4 +37,5 @@ toc_label: "Table of Contents"
 
 ## Other
 
+* [Reverse Traceroute: It's just traceroute, but the other direction](https://blubrry.com/ping_podcast/94883480/reverse-traceroute-its-just-traceroute-but-the-other-direction/); APNIC Podcast; 2023-03-29
 * [Troubleshooting the other half](https://blog.apnic.net/2023/03/01/troubleshooting-the-other-half/); Blog Post; [APNIC blog](https://blog.apnic.net/); 2023-03-01

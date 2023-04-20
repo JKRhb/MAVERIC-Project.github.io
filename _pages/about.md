@@ -20,9 +20,9 @@ business and research.
 The flagship project "Campus OS" started in the beginning of 2022 and
 is supplemented by six satellite projects focusing on
 industry-specific solutions for 5G campus networks in different fields
-of application. In this context, Xantaro Deutschland, the NVL Group
-and the two universities of Augsburg and Emden/Leer form the
+of application. In this context, [Xantaro Deutschland](https://www.xantaro.net/en), the [NVL Group](https://www.nvl.de)
+and the two universities of applied sciences of [Augsburg](https://www.hs-augsburg.de) and [Emden/Leer](https://www.hs-emden-leer.de/) form the
 consortium of project "MAVERIC" for the development of a middleware
 solution for the automated utilization of edge resources in campus
 networks. The official project start was April 1st, 2022; the joint
-kick-off meeting takes place on April 7th in Hamburg.
+kick-off meeting took place on April 7th in Hamburg.

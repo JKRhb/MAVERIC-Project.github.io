@@ -12,6 +12,10 @@ toc_label: "Table of Contents"
 (internet draft, [00 version](https://datatracker.ietf.org/doc/html/draft-heiwin-intarea-reverse-traceroute-00) 2022-09-05,
 [01 version](https://datatracker.ietf.org/doc/html/draft-heiwin-intarea-reverse-traceroute-01) 2023-02-16)
 
+## Conference Papers
+
+* J. Romann, “Bridging the Gap to the Web of Things. On the Conversion between WoT Data Models and the Semantic Definition Format.” In: Proceedings of the First International Workshop on Semantic Web on Constrained Things, 27–46. CEUR Workshop Proceedings. Hersonissos, Greece: CEUR, 2023. https://ceur-ws.org/Vol-3412/#paper3.
+
 ## Presentations
 
 * R. Winter, V. Heinrich, "There AND back - designing reverse traceroute", [DENOG14](https://www.denog.de/de/meetings/denog14/index.html), 2022-11-15, [video](https://www.youtube.com/watch?v=Y7NtqLEtgjU)

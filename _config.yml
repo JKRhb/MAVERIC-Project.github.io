@@ -20,7 +20,7 @@ title                    : "MAVERIC"
 title_separator          : "-"
 subtitle                 : Researching 5G Campus Networks
 name                     : ""
-description              : "An amazing website."
+description              : "Middleware for Automated use of Edge Resources In Campus networks"
 url                      : "https://maveric-project.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

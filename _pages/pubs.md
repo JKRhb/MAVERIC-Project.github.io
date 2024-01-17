@@ -45,3 +45,4 @@ toc_label: "Table of Contents"
 
 * [Reverse Traceroute: It's just traceroute, but the other direction](https://blubrry.com/ping_podcast/94883480/reverse-traceroute-its-just-traceroute-but-the-other-direction/); APNIC Podcast; 2023-03-29
 * [Troubleshooting the other half](https://blog.apnic.net/2023/03/01/troubleshooting-the-other-half/); Blog Post; [APNIC blog](https://blog.apnic.net/); 2023-03-01
+* [1st place at the Funkenwerk Award 2023](https://www.tha.de/HSA-funkenwerk/Ausgezeichnet-Funkenwerk-Award-fuer-innovative-Gruendungsideen.html), Received for the mobile 5G network, built by the University of Applied Sciences Augsburg as part of the project

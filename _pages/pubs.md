@@ -14,7 +14,8 @@ toc_label: "Table of Contents"
 
 ## Conference Papers
 
-* J. Romann, [“Bridging the Gap to the Web of Things. On the Conversion between WoT Data Models and the Semantic Definition Format”](https://ceur-ws.org/Vol-3412/#paper3), In: Proceedings of the First International Workshop on Semantic Web on Constrained Things, 27–46. CEUR Workshop Proceedings. Hersonissos, Greece: CEUR, 2023.
+* J. Romann, ["Bridging the Gap to the Web of Things. On the Conversion between WoT Data Models and the Semantic Definition Format"](https://ceur-ws.org/Vol-3412/#paper3), In: Proceedings of the First International Workshop on Semantic Web on Constrained Things, 27–46. CEUR Workshop Proceedings. Hersonissos, Greece: CEUR, 2023.
+* V. Heinrich, R. Winter, "Towards a Stateless Reverse Traceroute Protocol", [IEEE International Conference on Communications (ICC)](https://icc2024.ieee-icc.org/): Next-Generation Networking and Internet Symposium, 2024.
 
 ## Presentations
 

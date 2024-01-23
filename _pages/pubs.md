@@ -27,6 +27,7 @@ toc_label: "Table of Contents"
 ## Code
 
 * A reverse traceroute client and server implementation (V. Heinrich, University of Applied Sciences Augsburg), [Github](https://github.com/hsanet/reverse-traceroute)
+* IceFlow, NDN-based stream processing library written in C++ (University of Applied Sciences Emden/Leer), [Github](https://github.com/hsel-netsys/iceflow).
 
 ## Press releases
 

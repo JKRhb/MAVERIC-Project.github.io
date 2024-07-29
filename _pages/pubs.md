@@ -30,6 +30,7 @@ toc_label: "Table of Contents"
 * R. Winter, V. Heinrich, "Supercharging Traceroute", [IETF 115](https://datatracker.ietf.org/meeting/115/materials/slides-115-hotrfc-sessa-5-supercharging-traceroute), 2022-11-06, [video](https://www.youtube.com/watch?v=j0TLYpvK4NQ&t=1460s)
 * V. Heinrich, "Reverse Traceroute", [IETF 118](https://datatracker.ietf.org/meeting/118/materials/slides-118-intarea-reverse-traceroute), 2023-11-09, [video](https://youtu.be/w7K_BT1UB1Q?feature=shared&t=2660)
 * V. Heinrich, "Ah, This Is How Packets Get Here! Measuring Reverse Paths on the Public Internet", RIPE 87, 2023-11-28, [video](https://ripe87.ripe.net/archives/video/1173/)
+* R. Winter, "Stateless Reverse Traceroute", [IETF 120](https://datatracker.ietf.org/meeting/120/materials/slides-120-intarea-stateless-reverse-traceroute), 2023-11-09, [video](https://www.youtube.com/watch?v=OGE5onPY7NM&t=2507s)
 
 ## Code
 

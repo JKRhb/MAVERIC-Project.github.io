@@ -11,7 +11,8 @@ toc_label: "Table of Contents"
 * V. Heinrich, R. Winter, "Stateless Reverse Traceroute", 
 (internet draft,  [00 version](https://datatracker.ietf.org/doc/html/draft-heiwin-intarea-reverse-traceroute-stateless-00) 2024-05-31,
 [01 version](https://datatracker.ietf.org/doc/html/draft-heiwin-intarea-reverse-traceroute-stateless-01) 2024-06-03,
-[02 version](https://datatracker.ietf.org/doc/html/draft-heiwin-intarea-reverse-traceroute-stateless-02) 2024-07-07)
+[02 version](https://datatracker.ietf.org/doc/html/draft-heiwin-intarea-reverse-traceroute-stateless-02) 2024-07-07,
+[03 version](https://datatracker.ietf.org/doc/html/draft-heiwin-intarea-reverse-traceroute-stateless-03) 2024-08-28)
 
 * V. Heinrich, R. Winter, "Reverse Traceroute", 
 (internet draft, [00 version](https://datatracker.ietf.org/doc/html/draft-heiwin-intarea-reverse-traceroute-00) 2022-09-05,

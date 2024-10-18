@@ -33,6 +33,7 @@ toc_label: "Table of Contents"
 * V. Heinrich, "Reverse Traceroute", [IETF 118](https://datatracker.ietf.org/meeting/118/materials/slides-118-intarea-reverse-traceroute), 2023-11-09, [video](https://youtu.be/w7K_BT1UB1Q?feature=shared&t=2660)
 * V. Heinrich, "Ah, This Is How Packets Get Here! Measuring Reverse Paths on the Public Internet", RIPE 87, 2023-11-28, [video](https://ripe87.ripe.net/archives/video/1173/)
 * R. Winter, "Stateless Reverse Traceroute", [IETF 120](https://datatracker.ietf.org/meeting/120/materials/slides-120-intarea-stateless-reverse-traceroute), 2024-07-24, [video](https://www.youtube.com/watch?v=OGE5onPY7NM&t=2507s)
+* R. Winter "Nomadische Netze - Zwischen exotischem Grenzfall und Einstieg", 2024-10-07, [Tage der Digitalen Technologien 2014](https://www.bmwk.de/Redaktion/DE/Veranstaltungen/2024/tage-der-digitalen-technologien-2024.html)
 
 ## Code
 

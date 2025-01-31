@@ -36,6 +36,7 @@ toc_label: "Table of Contents"
 * R. Winter, "Stateless Reverse Traceroute", [IETF 120](https://datatracker.ietf.org/meeting/120/materials/slides-120-intarea-stateless-reverse-traceroute), 2024-07-24, [video](https://www.youtube.com/watch?v=OGE5onPY7NM&t=2507s)
 * R. Winter "Nomadische Netze - Zwischen exotischem Grenzfall und Einstieg", 2024-10-07, [Tage der Digitalen Technologien 2014](https://www.bmwk.de/Redaktion/DE/Veranstaltungen/2024/tage-der-digitalen-technologien-2024.html)
 * R. Winter, "Stateless Reverse Traceroute", [IETF 121](https://datatracker.ietf.org/meeting/121/materials/slides-121-intarea-stateless-reverse-traceroute-00), 2024-11-06, [video](https://youtu.be/kQvBFVUzuUI?t=2541)
+* S. Graf, "Middleware für die automatisierte Nutzung von Edge-Ressourcen in Campus-Netzwerken", [5G.NRWeek Jahreskonferenz](https://5g.nrw/5g-nrweek-2024-jahreskonferenz/), 2024-11-21
 * M. Mailand, "Konnektivität als tragende Säule der Digitalisierung", [Roadshow „Die Zukunft der Industrieautomatisierung – 5G-Campusnetze, KI und Edge Computing im Einsatz“](https://www.digitale-technologien.de/DT/Redaktion/DE/Kurzmeldungen/Aktuelles/2024/FDT/20241126_Stuttgart_Arena2036.html)
 
 ## Code
@@ -61,7 +62,7 @@ toc_label: "Table of Contents"
 ## Exhibitions (as exhibitor)
 
 * Mobile 5G Campus Network and Drone, [Roadshow „Die Zukunft der Industrieautomatisierung – 5G-Campusnetze, KI und Edge Computing im Einsatz“](https://www.digitale-technologien.de/DT/Redaktion/DE/Kurzmeldungen/Aktuelles/2024/FDT/20241126_Stuttgart_Arena2036.html), 2025-01-30
-* Mobile 5G Campus Network, [5G.NRWeek 2024](https://5g.nrw/5g-nrweek-2024/), 20024-11-21
+* Mobile 5G Campus Network, [5G.NRWeek Jahreskonfrenz 2024](https://5g.nrw/5g-nrweek-2024-jahreskonferenz/), 20024-11-21
 
 ## Other
 

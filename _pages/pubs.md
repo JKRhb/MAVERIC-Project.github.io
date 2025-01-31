@@ -27,8 +27,6 @@ toc_label: "Table of Contents"
 * V. Heinrich, R. Winter, "Towards a Stateless Reverse Traceroute Protocol", [IEEE International Conference on Communications (ICC)](https://icc2024.ieee-icc.org/): Next-Generation Networking and Internet Symposium, 2024.
 * J. Romann, H. H. Damer, T M  Rayhan Gias, O. Bergmann, "Leveraging Information-Centric Edge Computing in Private 5G Cellular Networks via the W3C Web of Things", CCNC 2025: 4th International workshop on IoT interoperability and the web of things (IIWOT'25). Las Vegas, Nevada, USA, 2025.
 
-
-
 ## Presentations
 
 * R. Winter, V. Heinrich, "There AND back - designing reverse traceroute", [DENOG14](https://www.denog.de/de/meetings/denog14/index.html), 2022-11-15, [video](https://www.youtube.com/watch?v=Y7NtqLEtgjU)
@@ -38,6 +36,7 @@ toc_label: "Table of Contents"
 * R. Winter, "Stateless Reverse Traceroute", [IETF 120](https://datatracker.ietf.org/meeting/120/materials/slides-120-intarea-stateless-reverse-traceroute), 2024-07-24, [video](https://www.youtube.com/watch?v=OGE5onPY7NM&t=2507s)
 * R. Winter "Nomadische Netze - Zwischen exotischem Grenzfall und Einstieg", 2024-10-07, [Tage der Digitalen Technologien 2014](https://www.bmwk.de/Redaktion/DE/Veranstaltungen/2024/tage-der-digitalen-technologien-2024.html)
 * R. Winter, "Stateless Reverse Traceroute", [IETF 121](https://datatracker.ietf.org/meeting/121/materials/slides-121-intarea-stateless-reverse-traceroute-00), 2024-11-06, [video](https://youtu.be/kQvBFVUzuUI?t=2541)
+* M. Mailand, "Konnektivität als tragende Säule der Digitalisierung", [Roadshow „Die Zukunft der Industrieautomatisierung – 5G-Campusnetze, KI und Edge Computing im Einsatz“](https://www.digitale-technologien.de/DT/Redaktion/DE/Kurzmeldungen/Aktuelles/2024/FDT/20241126_Stuttgart_Arena2036.html)
 
 ## Code
 
@@ -58,6 +57,11 @@ toc_label: "Table of Contents"
 * [5G-Projekt für Industrie entwickelt](/assets/pdf/2022-04-14_Emder_Zeitung_-_14-04-2022_print.pdf); [Emder Zeitung](https://www.emderzeitung.de/); 2022-04-14
 * [Hochschule Emden entwickelt 5G-Projekt für Industrie](https://www.nwzonline.de/plus-emden/emden-digitalisierung-hochschule-emden-entwickelt-5g-projekt-fuer-industrie-projekt-maveric_a_51,6,4229545147.html); [NWZ Online](https://www.nwzonline.de/); 2022-04-14
 * [HS Emden und Lürssen forschen zu mobilem 5G-Netz im Schiffbau](https://hansa-online.de/2022/04/featured/193913/hs-emden-und-luerssen-forschen-zu-mobilem-5g-netz-im-schiffbau/); [HANSA](https://hansa-online.de/); 2022-04-14
+
+## Exhibitions (as exhibitor)
+
+* Mobile 5G Campus Network and Drone, [Roadshow „Die Zukunft der Industrieautomatisierung – 5G-Campusnetze, KI und Edge Computing im Einsatz“](https://www.digitale-technologien.de/DT/Redaktion/DE/Kurzmeldungen/Aktuelles/2024/FDT/20241126_Stuttgart_Arena2036.html), 2025-01-30
+* Mobile 5G Campus Network, [5G.NRWeek 2024](https://5g.nrw/5g-nrweek-2024/), 20024-11-21
 
 ## Other
 

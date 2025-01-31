@@ -61,8 +61,10 @@ toc_label: "Table of Contents"
 
 ## Exhibitions (as exhibitor)
 
-* Mobile 5G Campus Network and Drone, [Roadshow „Die Zukunft der Industrieautomatisierung – 5G-Campusnetze, KI und Edge Computing im Einsatz“](https://www.digitale-technologien.de/DT/Redaktion/DE/Kurzmeldungen/Aktuelles/2024/FDT/20241126_Stuttgart_Arena2036.html), 2025-01-30
+* Mobile 5G Campus Network, [Technologie Transferkongress](https://www.tha.de/itw/technologietransfer/Technologietransfer-Kongress-2024.html), 2024-03-20
+* Mobile 5G Campus Network, [Tag der digitalisierten Produktion](https://www.augsburg.tv/mediathek/video/ausbau-an-digitalisierter-produktion-soll-wirtschaft-ankurbeln/), 2024-10-10
 * Mobile 5G Campus Network, [5G.NRWeek Jahreskonfrenz 2024](https://5g.nrw/5g-nrweek-2024-jahreskonferenz/), 20024-11-21
+* Mobile 5G Campus Network and Drone, [Roadshow „Die Zukunft der Industrieautomatisierung – 5G-Campusnetze, KI und Edge Computing im Einsatz“](https://www.digitale-technologien.de/DT/Redaktion/DE/Kurzmeldungen/Aktuelles/2024/FDT/20241126_Stuttgart_Arena2036.html), 2025-01-30
 
 ## Other
 

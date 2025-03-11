@@ -26,6 +26,7 @@ toc_label: "Table of Contents"
 * J. Romann, ["Bridging the Gap to the Web of Things. On the Conversion between WoT Data Models and the Semantic Definition Format"](https://ceur-ws.org/Vol-3412/#paper3), In: Proceedings of the First International Workshop on Semantic Web on Constrained Things, 27–46. CEUR Workshop Proceedings. Hersonissos, Greece: CEUR, 2023.
 * V. Heinrich, R. Winter, "Towards a Stateless Reverse Traceroute Protocol", [IEEE International Conference on Communications (ICC)](https://icc2024.ieee-icc.org/): Next-Generation Networking and Internet Symposium, 2024.
 * J. Romann, H. H. Damer, T M  Rayhan Gias, O. Bergmann, "Leveraging Information-Centric Edge Computing in Private 5G Cellular Networks via the W3C Web of Things", CCNC 2025: 4th International workshop on IoT interoperability and the web of things (IIWOT'25). Las Vegas, Nevada, USA, 2025.
+* T. Neubert, R. Winter, J. Winkler, "On The Evolution of Home Gateways", [International Teletraffic Congress ITC 36](https://itc36.itc-conference.org/), Trondheim, 2025
 
 ## Presentations
 
